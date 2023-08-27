@@ -26,7 +26,7 @@ stem(t,ramp);
 
 % exponential
 
-t = -3 : 0.3 : 3;
+t = 0: 0.3 : 10;
 expo=exp(t);
 subplot(5,1,5);
 stem(t,expo);
