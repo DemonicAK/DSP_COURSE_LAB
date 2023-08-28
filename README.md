@@ -4,4 +4,7 @@ I have taken this subject in 5th sem of my Btech Degree
 
 exp1 -- plot discrete time signals
 
-exp2 -- dtft
+exp2 -- dtft and dft
+
+        (a) dtft 
+        (b) dft
